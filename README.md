@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RainbowKit Wallet Connection Demo
 
 This project demonstrates how to implement wallet connection using RainbowKit.
@@ -79,3 +80,6 @@ npm run build
 ```
 npm run start
 ``` 
+=======
+# test
+>>>>>>> dfbcd33acae3ea69b35f093a44e6dcd6a66df3c4
